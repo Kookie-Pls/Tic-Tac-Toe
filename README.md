@@ -1,4 +1,4 @@
-# ** Tic Tac Toe**
+# **Tic Tac Toe**
 
 - Two Player Game (Both players sat at the same computer)
 - Game is played on 3x3 grid
